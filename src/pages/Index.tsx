@@ -70,7 +70,7 @@ const Index = () => {
             <img
               src={profilePhoto}
               alt="Min Cho"
-              className="w-full h-auto rounded-sm md:h-full md:w-auto"
+              className="block w-full h-auto rounded-sm md:w-auto"
               style={desktopPhotoWidth ? { width: `${desktopPhotoWidth}px` } : undefined}
             />
           </div>
