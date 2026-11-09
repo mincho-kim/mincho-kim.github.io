@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="max-w-4xl mx-auto px-6">
         <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-caption">
           <p>© {currentYear} Min Cho. All rights reserved.</p>
-          <p>Last updated: March 2026</p>
+          <p>Last updated: November 2026</p>
         </div>
       </div>
     </footer>
